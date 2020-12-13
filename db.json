@@ -10,8 +10,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "Daniel"
-    "product": "123NiceWatchXYZ"
+    "name": "Daniel",
+    "product": "123NiceWatchXYZ",
     "date": "23/11/20"
   }
 }
